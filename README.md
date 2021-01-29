@@ -1,6 +1,6 @@
 # BST_FEF_FINAL
 This is module 2 end of module final project. The idea was to create a website with the required information. The required information is:
-Layout your page using Flexbox or Bootstrap.
+"Layout your page using Flexbox or Bootstrap.
 Include a header with your name and your job title (ie. Web Developer, Full Stack Developer, etc..)
 An image of yourself so everyone knows who you are.
 If you are uncomfortable including a picture of yourself, please use a placeholder image
@@ -14,4 +14,6 @@ You will need the following API endpoint with your username. https://api.github.
 Hint! Post the above into the web browser and you will see all of your repos listed as a JSON object
 Include a footer that sticks to the bottom of the screen, commonly referred to as a sticky footer.
 The footer should contain contact information with an email icon and an email address listed next to it.
-Style your page using CSS.
+Style your page using CSS."
+
+Project now complete.
